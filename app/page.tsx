@@ -31,7 +31,7 @@ export default function Home() {
         </div>
         <div className="rounded-lg overflow-hidden">
           <Image 
-            src="/images/portrait.jpg" 
+            src="/MyPage/images/portrait.jpg" 
             width={800} 
             height={800} 
             alt="Portrait" 
