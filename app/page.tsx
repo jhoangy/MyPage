@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <div>
-      <link rel="icon" href="/images/icon.ico" sizes="any" />
+      <link rel="icon" href="/MyPage//images/icon.ico" sizes="any" />
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-300 text-black p-4">
       <div className="flex flex-col md:flex-row items-center gap-5 max-w-screen-lg w-full">
         <div>
