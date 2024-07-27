@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV === 'production';
+//const isProd = process.env.NODE_ENV === 'production';
 
 const nextConfig = {
-    basePath: isProd ? '/MyPage' : '',
+    //basePath: isProd ? '/MyPage' : '',
     output: 'export',
     distDir: 'dist',
     images:{
