@@ -52,7 +52,7 @@ export default function Home() {
     <a href="https://github.com/jhoangy" target="_blank" rel="noopener noreferrer">
       <button className="mr-2">GitHub</button>
     </a>
-    <a href="https://drive.google.com/file/d/1TTL4gHCYNdYJ01RIwrUPxUTkT0_cIGZX/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <a href="https://drive.google.com/file/d/1ud1tlWzPpr_GLb6tUyGTrw7dIG9kgK90/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       <button className="mr-2">Resume</button>
     </a>
     <a href="https://www.linkedin.com/in/justtin-hoang/" target="_blank" rel="noopener noreferrer">
